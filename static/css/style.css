@@ -1,0 +1,31 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.navbar {
+  background-color: grey;
+  
+  
+}
+.hero {
+  background-image: url("/static/image/gogo.jpg");
+  height: 90vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: top;
+  align-items: center;
+}
+
+
+
+.hero h1 {
+  color: pink;
+  font-size: 70px;
+}
+
+.hero h2 {
+  color: pink;
+  font-size: 60px;
+}
+
